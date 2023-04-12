@@ -1,4 +1,4 @@
-= Jekyll AsciiDoc Quickstart
+= Jekyll AsciiDoc Kickstart
 :experimental:
 ifndef::env-github[:toc:]
 
