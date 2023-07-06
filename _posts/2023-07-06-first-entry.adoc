@@ -1,0 +1,9 @@
+= First Entry
+:showtitle:
+:page-navtitle: First Entry
+:page-excerpt: Excerpt goes here.
+:page-root: ../../../
+
+== Example entry
+
+Jekyll provides a blog-like service. Asciidoc documents in the _posts directory show as blog entries.
